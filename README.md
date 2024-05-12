@@ -1,8 +1,9 @@
-# Project Name
+#A.P.-Moller-Maersk-Case-Study_DS_ML
 
 ## Overview
 
-[Provide a brief overview of your project here.]
+In this project, we utilized an 11-month training dataset containing the following columns: ProductType, Manufacturer, Area Code, Sourcing Channel, Product Size, Product Type, Month of Sourcing, and Sourcing Cost. Our goal was to predict the sourcing cost for June 2021.
+
 
 ## Handling Outliers
 
