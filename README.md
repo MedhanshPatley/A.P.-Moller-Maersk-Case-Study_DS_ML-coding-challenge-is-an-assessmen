@@ -4,6 +4,9 @@
 
 In this project, we utilized an 11-month training dataset containing the following columns: ProductType, Manufacturer, Area Code, Sourcing Channel, Product Size, Product Type, Month of Sourcing, and Sourcing Cost. Our goal was to predict the sourcing cost for June 2021.
 
+# Final Jupyter Notebook: checkstationary
+
+This is my final and main file where all the code is available.
 
 ## Handling Outliers
 
@@ -27,4 +30,5 @@ We chose the LightGBM model for prediction because we observed that its MSE (Mea
 |------------------|----------------------|--------|-------|----------------------|-------------------------|
 | Mse              | 1091.12              | 672.6  | 1038.98| 1093.9               | 1219.9                  |
 | Mae              | 16.5                 | 18.4   | 19.13 | 16.6                 | 23.21                   |
+
 
